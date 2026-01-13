@@ -14,4 +14,4 @@ I'm a software engineer focused on backend systems, developer tooling, and the "
 
 
 ## Feedback
-Want to add something? Feel free to add comments and open issues.
+Want to add something? Feel free to drop comments and open issues.
