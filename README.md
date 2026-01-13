@@ -11,3 +11,7 @@ I'm a software engineer focused on backend systems, developer tooling, and the "
 - [trendyAI](https://github.com/the-sam-mit/trendyAI)
   - An AI Content Manager that helps budding creators optimize their social media presence using RAG.
   - _**Fun Fact**_: One of the first projects under AI learning series (Coming soon!!😛)  
+
+
+## Feedback
+Want to add something? Feel free to add comments and open issues.
