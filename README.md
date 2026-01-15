@@ -9,8 +9,8 @@ I'm a software engineer focused on backend systems, developer tooling, and the "
   - _**Fun Fact**_: Fully vibe-coded (thanks to Antigravity!💙)
   
 - [trendyAI](https://github.com/the-sam-mit/trendyAI)
-  - An AI Content Manager that helps budding creators optimize their social media presence using RAG.
-  - _**Fun Fact**_: One of the first projects under AI learning series (Coming soon!!😛)  
+  - An AI Content Manager that helps budding creators optimize their social media presence using Agentic AI.
+  - _**Fun Fact**_: One of the first projects under my AI learning series (Coming soon!!😛)  
 
 
 ## Feedback
